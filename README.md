@@ -30,7 +30,7 @@ Signals collected from [Pavel Sergeev](https://github.com/SirBlackwood)
 
 <img src="/media/gestures_pic.png" width="100%"/>
 
-## "Broken" signals
+## "Испорченные" сигналы | "Broken" signals
 p_1_55.txt, 
 p_1_120.txt, 
 p_1_339.txt, 
