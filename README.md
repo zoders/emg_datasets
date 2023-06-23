@@ -13,3 +13,4 @@ The gestures folder contains 4 folders with gestures:
 "3" - flexion of the wrist.
 
 <img src="/media/gestures_pic.png" width="32%"/>
+"Broken" signals:
