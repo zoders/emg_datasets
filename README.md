@@ -11,6 +11,9 @@
 
 Сигналы собраны с [Павла Сергеева](https://github.com/SirBlackwood)
 
+
+<img src="/media/gestures_pic.png" width="100%"/>
+
 # EMG dataset of hand gestures
 The gestures folder contains 4 folders with gestures:
 
@@ -25,7 +28,7 @@ The gestures folder contains 4 folders with gestures:
 Signals collected from [Pavel Sergeev](https://github.com/SirBlackwood)
 
 
-<img src="/media/gestures_pic.png" width="32%"/>
+<img src="/media/gestures_pic.png" width="100%"/>
 
 ## "Broken" signals
 p_1_55.txt, 
