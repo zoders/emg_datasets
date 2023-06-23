@@ -1,4 +1,7 @@
 # Набор данных ЭМГ жестов руки
+
+<img src="/media/gestures_pic.png" width="100%"/>
+
 В папке "gestures" находится 4 папки с жестами:
 
 "0" — щелчок пальцами;
@@ -12,7 +15,6 @@
 Сигналы собраны с [Павла Сергеева](https://github.com/SirBlackwood)
 
 
-<img src="/media/gestures_pic.png" width="100%"/>
 
 # EMG dataset of hand gestures
 The gestures folder contains 4 folders with gestures:
@@ -26,9 +28,6 @@ The gestures folder contains 4 folders with gestures:
 "3" - flexion of the wrist.
 
 Signals collected from [Pavel Sergeev](https://github.com/SirBlackwood)
-
-
-<img src="/media/gestures_pic.png" width="100%"/>
 
 ## "Испорченные" сигналы | "Broken" signals
 p_1_55.txt, 
